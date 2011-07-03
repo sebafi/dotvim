@@ -7,3 +7,6 @@
 [submodule "bundle/snipmmate.vim"]
 	path = bundle/snipmmate.vim
 	url = https://github.com/kogakure/snipmate.vim.git
+[submodule "bundle/repeat"]
+	path = bundle/repeat
+	url = http://github.com/tpope/vim-repeat.git
