@@ -10,3 +10,6 @@
 [submodule "bundle/repeat"]
 	path = bundle/repeat
 	url = http://github.com/tpope/vim-repeat.git
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = https://github.com/mhz/vim-matchit.git
