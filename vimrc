@@ -104,4 +104,4 @@ set shiftwidth=3
 set number
 set cindent
 let mapleader = ","
-
+map <F2> :NERDTreeToggle<CR>
